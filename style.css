@@ -137,6 +137,10 @@ hr {
   color: #ffffff;
 }
 
+.home .img-home {
+  width: 100px;
+}
+
 #home h5 {
   color: #000000;
 }
